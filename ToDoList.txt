@@ -1,0 +1,4 @@
+sleep,1
+run,2
+nap,3
+eat,5
